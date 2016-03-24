@@ -1,0 +1,14 @@
+c:\users\parlad\documents\visual studio 2015\Projects\text to speech\text to speech\bin\Debug\text to speech.exe.config
+c:\users\parlad\documents\visual studio 2015\Projects\text to speech\text to speech\bin\Debug\text to speech.exe
+c:\users\parlad\documents\visual studio 2015\Projects\text to speech\text to speech\bin\Debug\text to speech.pdb
+c:\users\parlad\documents\visual studio 2015\Projects\text to speech\text to speech\obj\Debug\text to speech.csprojResolveAssemblyReference.cache
+c:\users\parlad\documents\visual studio 2015\Projects\text to speech\text to speech\obj\Debug\text_to_speech.Form1.resources
+c:\users\parlad\documents\visual studio 2015\Projects\text to speech\text to speech\obj\Debug\text_to_speech.Properties.Resources.resources
+c:\users\parlad\documents\visual studio 2015\Projects\text to speech\text to speech\obj\Debug\text to speech.csproj.GenerateResource.Cache
+c:\users\parlad\documents\visual studio 2015\Projects\text to speech\text to speech\obj\Debug\text to speech.exe
+c:\users\parlad\documents\visual studio 2015\Projects\text to speech\text to speech\obj\Debug\text to speech.pdb
+C:\Users\parlad\Documents\Visual Studio 2015\Projects\text to speech\text to speech\bin\Debug\Interop.WMPLib.dll
+C:\Users\parlad\Documents\Visual Studio 2015\Projects\text to speech\text to speech\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\parlad\Documents\Visual Studio 2015\Projects\text to speech\text to speech\obj\Debug\Interop.WMPLib.dll
+C:\Users\parlad\Documents\Visual Studio 2015\Projects\text to speech\text to speech\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\parlad\Documents\Visual Studio 2015\Projects\text to speech\text to speech\obj\Debug\text to speech.csproj.ResolveComReference.cache
